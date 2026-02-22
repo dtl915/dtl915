@@ -24,5 +24,3 @@ Passionate about building useful applications and learning new technologies.
 - Email: harry.duan@mail.utoronto.ca
 - LinkedIn: [Tianle Duan](https://linkedin.com/in/tianle-duan)
 
-## 📊 GitHub Stats
-![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
