@@ -9,7 +9,7 @@ Passionate about building useful applications and learning new technologies.
 - **Languages:** Python, C++
 - **Core Strengths:** Algorithm Design, Data Structures, Competitive Programming, OOP
 - **Web Development:** Flask, Web Scraping (BeautifulSoup)
-- **Databases:** MySQL, SQLAlchemy ORM
+- **Databases:** MySQL
 - **GUI Development:** Tkinter
 - **Tools & Platforms:** Git, VS Code
 - **Currently Learning:** Linux, Command Line, Web Development
