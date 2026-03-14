@@ -15,10 +15,10 @@ Passionate about building useful applications and learning new technologies.
 - **Currently Learning:** Linux, Command Line, Web Development
 
 ## 🚀 Projects
-- [Flashcard App](https://github.com/yourusername/flashcard-app) — A Python app for studying with spaced repetition
-- [Weather App](https://github.com/yourusername/weather-app) — Fetches and displays weather data from an API
-- [Tetris](https://github.com/yourusername/tetris) — Classic Tetris game built in Python
-- [Dino Run](https://github.com/yourusername/dino-run) — Chrome dinosaur game clone
+- [Flashcard App](https://github.com/dtl915/flashcard-app) — A Python app for studying with spaced repetition
+- [Weather App](https://github.com/dtl915/weather-app) — Fetches and displays weather data from an API
+- [Tetris](https://github.com/dtl915/tetris) — Classic Tetris game built in Python
+- [Dino Run](https://github.com/dtl915/dino-run) — Chrome dinosaur game clone
 
 ## 📫 How to Reach Me
 - Email: harry.duan@mail.utoronto.ca
